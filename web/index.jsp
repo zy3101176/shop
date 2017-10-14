@@ -38,8 +38,8 @@
                     <a href="index.jsp"><img src="./view/images/logo.png" alt=" "/></a>
                 </div>
                 <div class="search">
-                    <input type="text" placeholder="请输入您要搜索的商品名称">
-                    <input type="submit" value="搜索">
+                    <input type="text" placeholder = "请输入您要搜索的商品名称">
+                    <input type="submit" value="搜索" >
 
                 </div>
                 <div class="clearfix"></div>
@@ -60,7 +60,7 @@
 </div>
 <!---->
 <div class="container">
-    <a class="shoes-grid">
+    <div class="shoes-grid">
         <div href="./view/html/single.html">
             <div class="wrap-in">
                 <div class="wmuSlider example1 slide-grid">
@@ -125,54 +125,54 @@
                 </script>
             </div>
         </div>
-    </a>
-    <!---->
-    <div class="shoes-grid-left">
-        <a href="./view/html/single.html">
-            <div class="col-md-6 con-sed-grid">
-
-                <div class=" elit-grid">
-
-                    <h4>consectetur elit</h4>
-                    <label>FOR ALL PURCHASE VALUE</label>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p>
-                    <span class="on-get">GET NOW</span>
-                </div>
-                <img class="img-responsive shoe-left" src="./view/images/sh.jpg" alt=" "/>
-
-                <div class="clearfix"></div>
-
-            </div>
         </a>
-        <a href="./view/html/single.html">
-            <div class="col-md-6 con-sed-grid sed-left-top">
-                <div class=" elit-grid">
-                    <h4>consectetur elit</h4>
-                    <label>FOR ALL PURCHASE VALUE</label>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p>
-                    <span class="on-get">GET NOW</span>
-                </div>
-                <img class="img-responsive shoe-left" src="./view/images/wa.jpg" alt=" "/>
+        <!---->
+        <div class="shoes-grid-left">
+            <a href="./view/html/single.html">
+                <div class="col-md-6 con-sed-grid">
 
-                <div class="clearfix"></div>
-            </div>
-        </a>
-    </div>
-    <div class="products">
-        <h5 class="latest-product">LATEST PRODUCTS</h5>
-        <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
-    </div>
-    <div class="product-left">
-        <div class="col-md-4 chain-grid">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/ch.jpg" alt=" "/></a>
-            <span class="star"> </span>
-            <div class="grid-chain-bottom">
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
-                <div class="star-price">
-                    <div class="dolor-grid">
-                        <span class="actual">300$</span>
-                        <span class="reducedfrom">400$</span>
-                        <span class="rating">
+                    <div class=" elit-grid">
+
+                        <h4>consectetur elit</h4>
+                        <label>FOR ALL PURCHASE VALUE</label>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p>
+                        <span class="on-get">GET NOW</span>
+                    </div>
+                    <img class="img-responsive shoe-left" src="./view/images/sh.jpg" alt=" "/>
+
+                    <div class="clearfix"></div>
+
+                </div>
+            </a>
+            <a href="./view/html/single.html">
+                <div class="col-md-6 con-sed-grid sed-left-top">
+                    <div class=" elit-grid">
+                        <h4>consectetur elit</h4>
+                        <label>FOR ALL PURCHASE VALUE</label>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p>
+                        <span class="on-get">GET NOW</span>
+                    </div>
+                    <img class="img-responsive shoe-left" src="./view/images/wa.jpg" alt=" "/>
+
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+        <div class="products">
+            <h5 class="latest-product">LATEST PRODUCTS</h5>
+            <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
+        </div>
+        <div class="product-left">
+            <div class="col-md-4 chain-grid">
+                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/ch.jpg" alt=" "/></a>
+                <span class="star"> </span>
+                <div class="grid-chain-bottom">
+                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <div class="star-price">
+                        <div class="dolor-grid">
+                            <span class="actual">300$</span>
+                            <span class="reducedfrom">400$</span>
+                            <span class="rating">
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-5" class="rating-star1"> </label>
 									        <input type="radio" class="rating-input" name="rating-input-1">
@@ -184,22 +184,22 @@
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-1" class="rating-star"> </label>
 							    	   </span>
+                        </div>
+                        <a class="now-get get-cart" href="#">ADD TO CART</a>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="now-get get-cart" href="#">ADD TO CART</a>
-                    <div class="clearfix"></div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-4 chain-grid">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/ba.jpg" alt=" "/></a>
-            <span class="star"> </span>
-            <div class="grid-chain-bottom">
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
-                <div class="star-price">
-                    <div class="dolor-grid">
-                        <span class="actual">300$</span>
-                        <span class="reducedfrom">400$</span>
-                        <span class="rating">
+            <div class="col-md-4 chain-grid">
+                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/ba.jpg" alt=" "/></a>
+                <span class="star"> </span>
+                <div class="grid-chain-bottom">
+                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <div class="star-price">
+                        <div class="dolor-grid">
+                            <span class="actual">300$</span>
+                            <span class="reducedfrom">400$</span>
+                            <span class="rating">
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-5" class="rating-star1"> </label>
 									        <input type="radio" class="rating-input" name="rating-input-1">
@@ -211,22 +211,22 @@
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-1" class="rating-star"> </label>
 							    	   </span>
+                        </div>
+                        <a class="now-get get-cart" href="#">ADD TO CART</a>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="now-get get-cart" href="#">ADD TO CART</a>
-                    <div class="clearfix"></div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-4 chain-grid grid-top-chain">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bo.jpg" alt=" "/></a>
-            <span class="star"> </span>
-            <div class="grid-chain-bottom">
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
-                <div class="star-price">
-                    <div class="dolor-grid">
-                        <span class="actual">300$</span>
-                        <span class="reducedfrom">400$</span>
-                        <span class="rating">
+            <div class="col-md-4 chain-grid grid-top-chain">
+                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bo.jpg" alt=" "/></a>
+                <span class="star"> </span>
+                <div class="grid-chain-bottom">
+                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <div class="star-price">
+                        <div class="dolor-grid">
+                            <span class="actual">300$</span>
+                            <span class="reducedfrom">400$</span>
+                            <span class="rating">
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-5" class="rating-star1"> </label>
 									        <input type="radio" class="rating-input" name="rating-input-1">
@@ -238,30 +238,30 @@
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-1" class="rating-star"> </label>
 							    	   </span>
+                        </div>
+                        <a class="now-get get-cart" href="#">ADD TO CART</a>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="now-get get-cart" href="#">ADD TO CART</a>
-                    <div class="clearfix"></div>
                 </div>
             </div>
+            <div class="clearfix"></div>
         </div>
-        <div class="clearfix"></div>
-    </div>
-    <div class="products">
-        <h5 class="latest-product">LATEST PRODUCTS</h5>
-        <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
-    </div>
-    <div class="product-left">
-        <div class="col-md-4 chain-grid">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bott.jpg"
-                                                   alt=" "/></a>
-            <span class="star"> </span>
-            <div class="grid-chain-bottom">
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
-                <div class="star-price">
-                    <div class="dolor-grid">
-                        <span class="actual">300$</span>
-                        <span class="reducedfrom">400$</span>
-                        <span class="rating">
+        <div class="products">
+            <h5 class="latest-product">LATEST PRODUCTS</h5>
+            <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
+        </div>
+        <div class="product-left">
+            <div class="col-md-4 chain-grid">
+                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bott.jpg"
+                                                       alt=" "/></a>
+                <span class="star"> </span>
+                <div class="grid-chain-bottom">
+                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <div class="star-price">
+                        <div class="dolor-grid">
+                            <span class="actual">300$</span>
+                            <span class="reducedfrom">400$</span>
+                            <span class="rating">
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-5" class="rating-star1"> </label>
 									        <input type="radio" class="rating-input" name="rating-input-1">
@@ -273,23 +273,23 @@
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-1" class="rating-star"> </label>
 							    	   </span>
+                        </div>
+                        <a class="now-get get-cart" href="#">ADD TO CART</a>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="now-get get-cart" href="#">ADD TO CART</a>
-                    <div class="clearfix"></div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-4 chain-grid">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bottle.jpg"
-                                                   alt=" "/></a>
-            <span class="star"> </span>
-            <div class="grid-chain-bottom">
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
-                <div class="star-price">
-                    <div class="dolor-grid">
-                        <span class="actual">300$</span>
-                        <span class="reducedfrom">400$</span>
-                        <span class="rating">
+            <div class="col-md-4 chain-grid">
+                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bottle.jpg"
+                                                       alt=" "/></a>
+                <span class="star"> </span>
+                <div class="grid-chain-bottom">
+                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <div class="star-price">
+                        <div class="dolor-grid">
+                            <span class="actual">300$</span>
+                            <span class="reducedfrom">400$</span>
+                            <span class="rating">
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-5" class="rating-star1"> </label>
 									        <input type="radio" class="rating-input" name="rating-input-1">
@@ -301,23 +301,23 @@
 									        <input type="radio" class="rating-input" name="rating-input-1">
 									        <label for="rating-input-1-1" class="rating-star"> </label>
 							    	   </span>
+                        </div>
+                        <a class="now-get get-cart" href="#">ADD TO CART</a>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="now-get get-cart" href="#">ADD TO CART</a>
-                    <div class="clearfix"></div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-4 chain-grid grid-top-chain">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/baa.jpg"
-                                                   alt=" "/></a>
-            <span class="star"> </span>
-            <div class="grid-chain-bottom">
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
-                <div class="star-price">
-                    <div class="dolor-grid">
-                        <span class="actual">300$</span>
-                        <span class="reducedfrom">400$</span>
-                        <span class="rating">
+            <div class="col-md-4 chain-grid grid-top-chain">
+                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/baa.jpg"
+                                                       alt=" "/></a>
+                <span class="star"> </span>
+                <div class="grid-chain-bottom">
+                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <div class="star-price">
+                        <div class="dolor-grid">
+                            <span class="actual">300$</span>
+                            <span class="reducedfrom">400$</span>
+                            <span class="rating">
 									        <input type="radio" class="rating-input" id="rating-input-1-5"
                                                    name="rating-input-1">
 									        <label for="rating-input-1-5" class="rating-star1"> </label>
@@ -334,102 +334,102 @@
                                                    name="rating-input-1">
 									        <label for="rating-input-1-1" class="rating-star"> </label>
 							    	   </span>
+                        </div>
+                        <a class="now-get get-cart" href="#">ADD TO CART</a>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="now-get get-cart" href="#">ADD TO CART</a>
-                    <div class="clearfix"></div>
                 </div>
             </div>
+            <div class="clearfix"></div>
         </div>
         <div class="clearfix"></div>
     </div>
-    <div class="clearfix"></div>
-</div>
-<div class="sub-cate">
-    <div class=" top-nav rsidebar span_1_of_left">
-        <h3 class="cate">CATEGORIES</h3>
-        <ul class="menu">
-            <li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="../images/arrow1.png" alt=""/>
-            </a>
-                <ul class="cute">
-                    <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                    <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                    <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
-                </ul>
-            </li>
-            <li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="../images/arrow1.png"
-                                                               alt=""/></a>
-                <ul class="cute">
-                    <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                    <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                    <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
-                </ul>
-            </li>
-            <li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png"
-                                                             alt=""/> </a>
-                <ul class="cute">
-                    <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                    <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                    <li class="subitem3"><a href="./view/html/product.html">Automatic Fails</a></li>
-                </ul>
-            </li>
-            <li class="item4"><a href="#">Cras iacaus rhone <img class="arrow-img img-left-arrow"
-                                                                 src="../images/arrow1.png" alt=""/></a>
-                <ul class="cute">
-                    <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                    <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                    <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
-                </ul>
-            </li>
-            <li>
-                <ul class="kid-menu">
-                    <li><a href="./view/html/product.html">Tempus pretium</a></li>
-                    <li><a href="./view/html/product.html">Dignissim neque</a></li>
+    <div class="sub-cate">
+        <div class=" top-nav rsidebar span_1_of_left">
+            <h3 class="cate">CATEGORIES</h3>
+            <ul class="menu">
+                <li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="../images/arrow1.png" alt=""/>
+                </a>
+                    <ul class="cute">
+                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                    </ul>
+                </li>
+                <li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="../images/arrow1.png"
+                                                                   alt=""/></a>
+                    <ul class="cute">
+                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                    </ul>
+                </li>
+                <li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png"
+                                                                 alt=""/> </a>
+                    <ul class="cute">
+                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails</a></li>
+                    </ul>
+                </li>
+                <li class="item4"><a href="#">Cras iacaus rhone <img class="arrow-img img-left-arrow"
+                                                                     src="../images/arrow1.png" alt=""/></a>
+                    <ul class="cute">
+                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                    </ul>
+                </li>
+                <li>
+                    <ul class="kid-menu">
+                        <li><a href="./view/html/product.html">Tempus pretium</a></li>
+                        <li><a href="./view/html/product.html">Dignissim neque</a></li>
+                        <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
+                    </ul>
+                </li>
+                <ul class="kid-menu ">
+                    <li><a href="./view/html/product.html">Commodo sit</a></li>
+                    <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
                     <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
+                    <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
+                    <li><a href="./view/html/product.html">Eget nisi laoreet</a></li>
+                    <li><a href="./view/html/product.html">Faciisis ornare</a></li>
+                    <li class="menu-kid-left"><a href="./view/html/contact.html">Contact us</a></li>
                 </ul>
-            </li>
-            <ul class="kid-menu ">
-                <li><a href="./view/html/product.html">Commodo sit</a></li>
-                <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
-                <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
-                <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
-                <li><a href="./view/html/product.html">Eget nisi laoreet</a></li>
-                <li><a href="./view/html/product.html">Faciisis ornare</a></li>
-                <li class="menu-kid-left"><a href="./view/html/contact.html">Contact us</a></li>
             </ul>
-        </ul>
-    </div>
-    <!--initiate accordion-->
-    <script type="text/javascript">
-        $(function () {
-            var menu_ul = $('.menu > li > ul'),
-                menu_a = $('.menu > li > a');
-            menu_ul.hide();
-            menu_a.click(function (e) {
-                e.preventDefault();
-                if (!$(this).hasClass('active')) {
-                    menu_a.removeClass('active');
-                    menu_ul.filter(':visible').slideUp('normal');
-                    $(this).addClass('active').next().stop(true, true).slideDown('normal');
-                } else {
-                    $(this).removeClass('active');
-                    $(this).next().stop(true, true).slideUp('normal');
-                }
-            });
-
-        });
-    </script>
-    <div class=" chain-grid menu-chain">
-        <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/wat.jpg"
-                                               alt=" "/></a>
-        <div class="grid-chain-bottom chain-watch">
-            <span class="actual dolor-left-grid">300$</span>
-            <span class="reducedfrom">500$</span>
-            <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
         </div>
+        <!--initiate accordion-->
+        <script type="text/javascript">
+            $(function () {
+                var menu_ul = $('.menu > li > ul'),
+                    menu_a = $('.menu > li > a');
+                menu_ul.hide();
+                menu_a.click(function (e) {
+                    e.preventDefault();
+                    if (!$(this).hasClass('active')) {
+                        menu_a.removeClass('active');
+                        menu_ul.filter(':visible').slideUp('normal');
+                        $(this).addClass('active').next().stop(true, true).slideDown('normal');
+                    } else {
+                        $(this).removeClass('active');
+                        $(this).next().stop(true, true).slideUp('normal');
+                    }
+                });
+
+            });
+        </script>
+        <div class=" chain-grid menu-chain">
+            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/wat.jpg"
+                                                   alt=" "/></a>
+            <div class="grid-chain-bottom chain-watch">
+                <span class="actual dolor-left-grid">300$</span>
+                <span class="reducedfrom">500$</span>
+                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+            </div>
+        </div>
+        <a class="view-all all-product" href="./view/html/product.html">VIEW ALL PRODUCTS<span> </span></a>
     </div>
-    <a class="view-all all-product" href="./view/html/product.html">VIEW ALL PRODUCTS<span> </span></a>
-</div>
-<div class="clearfix"></div>
+    <div class="clearfix"></div>
 </div>
 
 <!---->
