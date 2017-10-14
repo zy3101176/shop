@@ -160,7 +160,7 @@
         </div>
         <div class="products">
             <h5 class="latest-product">LATEST PRODUCTS</h5>
-            <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
+            <a class="view-all" href="view/html/product.jsp">VIEW ALL<span> </span></a>
         </div>
         <div class="product-left">
             <div class="col-md-4 chain-grid">
@@ -248,7 +248,7 @@
         </div>
         <div class="products">
             <h5 class="latest-product">LATEST PRODUCTS</h5>
-            <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
+            <a class="view-all" href="view/html/product.jsp">VIEW ALL<span> </span></a>
         </div>
         <div class="product-left">
             <div class="col-md-4 chain-grid">
@@ -351,49 +351,49 @@
                 <li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="../images/arrow1.png" alt=""/>
                 </a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
                     </ul>
                 </li>
                 <li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="../images/arrow1.png"
                                                                    alt=""/></a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
                     </ul>
                 </li>
                 <li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png"
                                                                  alt=""/> </a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails</a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails</a></li>
                     </ul>
                 </li>
                 <li class="item4"><a href="#">Cras iacaus rhone <img class="arrow-img img-left-arrow"
                                                                      src="../images/arrow1.png" alt=""/></a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
                     </ul>
                 </li>
                 <li>
                     <ul class="kid-menu">
-                        <li><a href="./view/html/product.html">Tempus pretium</a></li>
-                        <li><a href="./view/html/product.html">Dignissim neque</a></li>
-                        <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
+                        <li><a href="view/html/product.jsp">Tempus pretium</a></li>
+                        <li><a href="view/html/product.jsp">Dignissim neque</a></li>
+                        <li><a href="view/html/product.jsp">Ornared id aliquet</a></li>
                     </ul>
                 </li>
                 <ul class="kid-menu ">
-                    <li><a href="./view/html/product.html">Commodo sit</a></li>
-                    <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
-                    <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
-                    <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
-                    <li><a href="./view/html/product.html">Eget nisi laoreet</a></li>
-                    <li><a href="./view/html/product.html">Faciisis ornare</a></li>
+                    <li><a href="view/html/product.jsp">Commodo sit</a></li>
+                    <li><a href="view/html/product.jsp">Urna ac tortor sc</a></li>
+                    <li><a href="view/html/product.jsp">Ornared id aliquet</a></li>
+                    <li><a href="view/html/product.jsp">Urna ac tortor sc</a></li>
+                    <li><a href="view/html/product.jsp">Eget nisi laoreet</a></li>
+                    <li><a href="view/html/product.jsp">Faciisis ornare</a></li>
                     <li class="menu-kid-left"><a href="./view/html/contact.html">Contact us</a></li>
                 </ul>
             </ul>
@@ -427,7 +427,7 @@
                 <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
             </div>
         </div>
-        <a class="view-all all-product" href="./view/html/product.html">VIEW ALL PRODUCTS<span> </span></a>
+        <a class="view-all all-product" href="view/html/product.jsp">VIEW ALL PRODUCTS<span> </span></a>
     </div>
     <div class="clearfix"></div>
 </div>
