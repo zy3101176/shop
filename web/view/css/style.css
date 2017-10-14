@@ -1132,6 +1132,7 @@ ul.face-in-to li a span.facebook-in{
 	padding:0;
 }
 .footer-bottom {
+	border-top: 1px solid #ddd;
 	padding: 2em 0 5em;
 }
 /*--single--*/
