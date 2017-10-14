@@ -1,13 +1,7 @@
-<!--A Design by W3layouts 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-<title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Login :: w3layouts</title>
+<title>shop</title>
 <link href="../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!--theme-style-->
 <link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -23,41 +17,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body> 
 	<!--header-->
 	<div class="header">
-		<div class="top-header">
-			<div class="container">
-				<div class="top-header-left">
-					<ul class="support">
-						<li><a href="#"><label> </label></a></li>
-						<li><a href="#">24x7 live<span class="live"> support</span></a></li>
-					</ul>
-					<ul class="support">
-						<li class="van"><a href="#"><label> </label></a></li>
-						<li><a href="#">Free shipping <span class="live">on order over 500</span></a></li>
-					</ul>
-					<div class="clearfix"> </div>
-				</div>
-				<div class="top-header-right">
-					<div class="down-top">		
-						  <select class="in-drop">
-							  <option value="English" class="in-of">English</option>
-							  <option value="Japanese" class="in-of">Japanese</option>
-							  <option value="French" class="in-of">French</option>
-							  <option value="German" class="in-of">German</option>
-							</select>
-					 </div>
-					<div class="down-top top-down">
-						  <select class="in-drop">
-						  
-						  <option value="Dollar" class="in-of">Dollar</option>
-						  <option value="Yen" class="in-of">Yen</option>
-						  <option value="Euro" class="in-of">Euro</option>
-							</select>
-					 </div>
-					<div class="clearfix"> </div>	
-				</div>
-				<div class="clearfix"> </div>		
-			</div>
-		</div>
 		<div class="bottom-header">
 			<div class="container">
 				<div class="header-bottom-left">
@@ -65,19 +24,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<a href="index.html"><img src="../images/logo.png" alt=" " /></a>
 					</div>
 					<div class="search">
-						<input type="text" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" >
-						<input type="submit"  value="SEARCH">
+						<input type="text" placeholder = "请输入您要搜索的商品名称">
+						<input type="submit" value="搜索" >
 
 					</div>
 					<div class="clearfix"> </div>
 				</div>
 				<div class="header-bottom-right">					
-						<div class="account"><a href="login.jsp"><span> </span>YOUR ACCOUNT</a></div>
+						<div class="account"><a href="login.jsp"><span> </span>个人管理</a></div>
 							<ul class="login">
-								<li><a href="login.jsp"><span> </span>LOGIN</a></li> |
-								<li ><a href="register.jsp">SIGNUP</a></li>
+								<li><a href="login.jsp"><span> </span>登录</a></li> |
+								<li ><a href="register.jsp">注册</a></li>
 							</ul>
-						<div class="cart"><a href="#"><span> </span>CART</a></div>
+						<div class="cart"><a href="#"><span> </span>收藏</a></div>
 					<div class="clearfix"> </div>
 				</div>
 				<div class="clearfix"> </div>	
@@ -89,25 +48,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		
       	   <div class="account_grid">
 			   <div class=" login-right">
-			  	<h3>REGISTERED CUSTOMERS</h3>
-				<p>If you have an account with us, please log in.</p>
+			  	<h3>老用户</h3>
+				<p>如果您已有账户，请登陆！</p>
 				<form>
 				  <div>
-					<span>Email Address<label>*</label></span>
-					<input id="email-address" type="text">
+					<span>用户名<label>*</label></span>
+					<input id="email-address" type="text" placeholder="电子邮箱或手机号码">
 				  </div>
 				  <div>
-					<span>Password<label>*</label></span>
-					<input id="password" type="text">
+					<span>密码<label>*</label></span>
+					<input id="password" type="password" >
 				  </div>
-				  <a class="forgot" href="#">Forgot Your Password?</a>
-				  <input id="login-click" type="submit" value="Login">
+				  <a class="forgot" href="#">忘记密码?</a>
+				  <input id="login-click" type="submit" value="登录">
 			    </form>
 			   </div>	
 			    <div class=" login-left">
-			  	 <h3>NEW CUSTOMERS</h3>
+			  	 <h3>新用户</h3>
 				 <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
-				 <a class="acount-btn" href="register.jsp">Create an Account</a>
+				 <a class="acount-btn" href="register.jsp">创建用户</a>
 			   </div>
 			   <div class="clearfix"> </div>
 			 </div>
@@ -195,94 +154,5 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			  <div class="clearfix"> </div>
       	 </div>
 	<!---->
-	<div class="footer">
-		<div class="footer-top">
-			<div class="container">
-				<div class="latter">
-					<h6>NEWS-LETTER</h6>
-					<div class="sub-left-right">
-						<form>
-							<input type="text" value="Enter email here"onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter email here';}" />
-							<input type="submit" value="SUBSCRIBE" />
-						</form>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-				<div class="latter-right">
-					<p>FOLLOW US</p>
-					<ul class="face-in-to">
-						<li><a href="#"><span> </span></a></li>
-						<li><a href="#"><span class="facebook-in"> </span></a></li>
-						<div class="clearfix"> </div>
-					</ul>
-					<div class="clearfix"> </div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-		<div class="footer-bottom">
-			<div class="container">
-				<div class="footer-bottom-cate">
-					<h6>CATEGORIES</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li ><a href="#">Dignissim neque</a></li>
-						<li ><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Ultrices id du</a></li>
-						<li><a href="#">Commodo sit</a></li>
-						<li ><a href="#">Urna ac tortor sc</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Urna ac tortor sc</a></li>
-						<li ><a href="#">Eget nisi laoreet</a></li>
-						<li ><a href="#">Faciisis ornare</a></li>
-					</ul>
-				</div>
-				<div class="footer-bottom-cate bottom-grid-cat">
-					<h6>FEATURE PROJECTS</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li ><a href="#">Dignissim neque</a></li>
-						<li ><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Ultrices id du</a></li>
-						<li><a href="#">Commodo sit</a></li>
-					</ul>
-				</div>
-				<div class="footer-bottom-cate">
-					<h6>TOP BRANDS</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li ><a href="#">Dignissim neque</a></li>
-						<li ><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Ultrices id du</a></li>
-						<li><a href="#">Commodo sit</a></li>
-						<li ><a href="#">Urna ac tortor sc</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Urna ac tortor sc</a></li>
-						<li ><a href="#">Eget nisi laoreet</a></li>
-						<li ><a href="#">Faciisis ornare</a></li>
-					</ul>
-				</div>
-				<div class="footer-bottom-cate cate-bottom">
-					<h6>OUR ADDERSS</h6>
-					<ul>
-						<li>Aliquam metus  dui. </li>
-						<li>orci, ornareidquet</li>
-						<li> ut,DUI.</li>
-						<li >nisi, dignissim</li>
-						<li >gravida at.</li>
-						<li class="phone">PH : 6985792466</li>
-						<li class="temp"> <p class="footer-class">Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p></li>
-					</ul>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
 </body>
 </html>
