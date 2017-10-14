@@ -10,7 +10,7 @@
 <head>
   <title>$Title$</title>
 </head>
-<script type="text/javascript" src="./view/js/jquery-3.2.0.js"></script>
+<script type="text/javascript" src="./view/js/jquery.min.js"></script>
 <script>
     $(document).ready(function(){
         $("#test").click(function(){
