@@ -75,10 +75,10 @@
         <div class="clearfix"> </div>
       </div>
       <div class="header-bottom-right">
-        <div class="account"><a href="./view/html/login.html"><span> </span>YOUR ACCOUNT</a></div>
+        <div class="account"><a href="view/html/login.jsp"><span> </span>YOUR ACCOUNT</a></div>
         <ul class="login">
-          <li><a href="./view/html/login.html"><span> </span>LOGIN</a></li> |
-          <li ><a href="./view/html/register.html">SIGNUP</a></li>
+          <li><a href="view/html/login.jsp"><span> </span>LOGIN</a></li> |
+          <li ><a href="view/html/register.jsp">SIGNUP</a></li>
         </ul>
         <div class="cart"><a href="#"><span> </span>CART</a></div>
         <div class="clearfix"> </div>

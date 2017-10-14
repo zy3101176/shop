@@ -4,10 +4,10 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
-<!DOCTYPE html>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-<title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Login :: w3layouts</title>
+<title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Register :: w3layouts</title>
 <link href="../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!--theme-style-->
 <link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -18,6 +18,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 <!--//fonts-->
 <script src="../js/jquery.min.js"></script>
+
+
 </head>
 <body> 
 	<!--header-->
@@ -71,10 +73,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="clearfix"> </div>
 				</div>
 				<div class="header-bottom-right">					
-						<div class="account"><a href="login.html"><span> </span>YOUR ACCOUNT</a></div>
+						<div class="account"><a href="login.jsp"><span> </span>YOUR ACCOUNT</a></div>
 							<ul class="login">
-								<li><a href="login.html"><span> </span>LOGIN</a></li> |
-								<li ><a href="register.html">SIGNUP</a></li>
+								<li><a href="login.jsp"><span> </span>LOGIN</a></li> |
+								<li ><a href="register.jsp">SIGNUP</a></li>
 							</ul>
 						<div class="cart"><a href="#"><span> </span>CART</a></div>
 					<div class="clearfix"> </div>
@@ -84,33 +86,46 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 	</div>
 	<!---->
-	<div class="container">
-		
-      	   <div class="account_grid">
-			   <div class=" login-right">
-			  	<h3>REGISTERED CUSTOMERS</h3>
-				<p>If you have an account with us, please log in.</p>
-				<form>
-				  <div>
-					<span>Email Address<label>*</label></span>
-					<input type="text"> 
-				  </div>
-				  <div>
-					<span>Password<label>*</label></span>
-					<input type="text"> 
-				  </div>
-				  <a class="forgot" href="#">Forgot Your Password?</a>
-				  <input type="submit" value="Login">
-			    </form>
-			   </div>	
-			    <div class=" login-left">
-			  	 <h3>NEW CUSTOMERS</h3>
-				 <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
-				 <a class="acount-btn" href="register.html">Create an Account</a>
-			   </div>
-			   <div class="clearfix"> </div>
-			 </div>
-			 <div class="sub-cate">
+	<div class="container"> 
+			         
+		<div class="register">
+		  	  <form> 
+				 <div class="  register-top-grid">
+					<h3>PERSONAL INFORMATION</h3>
+					<div class="mation">
+						<span>First Name<label>*</label></span>
+						<input type="text"> 
+					
+						<span>Last Name<label>*</label></span>
+						<input type="text"> 
+					 
+						 <span>Email Address<label>*</label></span>
+						 <input type="text"> 
+					</div>
+					 <div class="clearfix"> </div>
+					   <a class="news-letter" href="#">
+						 <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i> </i>Sign Up</label>
+					   </a>
+					 </div>
+				     <div class="  register-bottom-grid">
+						    <h3>LOGIN INFORMATION</h3>
+							<div class="mation">
+								<span>Password<label>*</label></span>
+								<input type="text">
+								<span>Confirm Password<label>*</label></span>
+								<input type="text">
+							</div>
+					 </div>
+				</form>
+				<div class="clearfix"> </div>
+				<div class="register-but">
+				   <form>
+					   <input type="submit" value="submit">
+					   <div class="clearfix"> </div>
+				   </form>
+				</div>
+		   </div>
+		   <div class="sub-cate">
 				<div class=" top-nav rsidebar span_1_of_left">
 					<h3 class="cate">CATEGORIES</h3>
 		 <ul class="menu">
@@ -128,7 +143,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li class="subitem3"><a href="product.html">Automatic Fails </a></li>
 			</ul>
 		</li>
-		<li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png" alt=""/> </a>
+		<li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="images/arrow1.png" alt=""/> </a>
 			<ul class="cute">
 				<li class="subitem1"><a href="product.html">Cute Kittens </a></li>
 				<li class="subitem2"><a href="product.html">Strange Stuff </a></li>
@@ -190,9 +205,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	   		     		</div>
 	   		     	</div>
 	   		     	 <a class="view-all all-product" href="product.html">VIEW ALL PRODUCTS<span> </span></a> 	
-			</div>
-			  <div class="clearfix"> </div>
-      	 </div>
+			</div>      
+	</div>
 	<!---->
 	<div class="footer">
 		<div class="footer-top">

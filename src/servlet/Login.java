@@ -14,9 +14,15 @@ import java.io.PrintWriter;
 @WebServlet(name = "Login",urlPatterns = "/login")
 public class Login extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		String s = request.getParameter("operator1");
+		String email = request.getParameter("email");
+		String password = request.getParameter("password");
 		PrintWriter out = response.getWriter();
-		out.print(s);
+
+		if(email.equals( "123") && password.equals("123")){
+			out.print("true");
+		}else {
+			out.print("false");
+		}
 	}
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
