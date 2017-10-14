@@ -60,7 +60,7 @@
 </div>
 <!---->
 <div class="container">
-    <div class="shoes-grid">
+    <a class="shoes-grid">
         <div href="./view/html/single.html">
             <div class="wrap-in">
                 <div class="wmuSlider example1 slide-grid">
@@ -125,7 +125,7 @@
                 </script>
             </div>
         </div>
-    </div>
+    </a>
     <!---->
     <div class="shoes-grid-left">
         <a href="./view/html/single.html">
