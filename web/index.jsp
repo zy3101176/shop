@@ -128,7 +128,7 @@
         </a>
         <!---->
         <div class="shoes-grid-left">
-            <a href="./view/html/single.html">
+            <a href="view/html/single.jsp">
                 <div class="col-md-6 con-sed-grid">
 
                     <div class=" elit-grid">
@@ -144,7 +144,7 @@
 
                 </div>
             </a>
-            <a href="./view/html/single.html">
+            <a href="view/html/single.jsp">
                 <div class="col-md-6 con-sed-grid sed-left-top">
                     <div class=" elit-grid">
                         <h4>consectetur elit</h4>
@@ -164,10 +164,10 @@
         </div>
         <div class="product-left">
             <div class="col-md-4 chain-grid">
-                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/ch.jpg" alt=" "/></a>
+                <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/ch.jpg" alt=" "/></a>
                 <span class="star"> </span>
                 <div class="grid-chain-bottom">
-                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
                     <div class="star-price">
                         <div class="dolor-grid">
                             <span class="actual">300$</span>
@@ -191,10 +191,10 @@
                 </div>
             </div>
             <div class="col-md-4 chain-grid">
-                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/ba.jpg" alt=" "/></a>
+                <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/ba.jpg" alt=" "/></a>
                 <span class="star"> </span>
                 <div class="grid-chain-bottom">
-                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
                     <div class="star-price">
                         <div class="dolor-grid">
                             <span class="actual">300$</span>
@@ -218,10 +218,10 @@
                 </div>
             </div>
             <div class="col-md-4 chain-grid grid-top-chain">
-                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bo.jpg" alt=" "/></a>
+                <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/bo.jpg" alt=" "/></a>
                 <span class="star"> </span>
                 <div class="grid-chain-bottom">
-                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
                     <div class="star-price">
                         <div class="dolor-grid">
                             <span class="actual">300$</span>
@@ -252,11 +252,11 @@
         </div>
         <div class="product-left">
             <div class="col-md-4 chain-grid">
-                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bott.jpg"
-                                                       alt=" "/></a>
+                <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/bott.jpg"
+                                                    alt=" "/></a>
                 <span class="star"> </span>
                 <div class="grid-chain-bottom">
-                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
                     <div class="star-price">
                         <div class="dolor-grid">
                             <span class="actual">300$</span>
@@ -280,11 +280,11 @@
                 </div>
             </div>
             <div class="col-md-4 chain-grid">
-                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/bottle.jpg"
-                                                       alt=" "/></a>
+                <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/bottle.jpg"
+                                                    alt=" "/></a>
                 <span class="star"> </span>
                 <div class="grid-chain-bottom">
-                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
                     <div class="star-price">
                         <div class="dolor-grid">
                             <span class="actual">300$</span>
@@ -308,11 +308,11 @@
                 </div>
             </div>
             <div class="col-md-4 chain-grid grid-top-chain">
-                <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/baa.jpg"
-                                                       alt=" "/></a>
+                <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/baa.jpg"
+                                                    alt=" "/></a>
                 <span class="star"> </span>
                 <div class="grid-chain-bottom">
-                    <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                    <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
                     <div class="star-price">
                         <div class="dolor-grid">
                             <span class="actual">300$</span>
@@ -419,12 +419,12 @@
             });
         </script>
         <div class=" chain-grid menu-chain">
-            <a href="./view/html/single.html"><img class="img-responsive chain" src="./view/images/wat.jpg"
-                                                   alt=" "/></a>
+            <a href="view/html/single.jsp"><img class="img-responsive chain" src="./view/images/wat.jpg"
+                                                alt=" "/></a>
             <div class="grid-chain-bottom chain-watch">
                 <span class="actual dolor-left-grid">300$</span>
                 <span class="reducedfrom">500$</span>
-                <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
+                <h6><a href="view/html/single.jsp">Lorem ipsum dolor</a></h6>
             </div>
         </div>
         <a class="view-all all-product" href="view/html/product.jsp">VIEW ALL PRODUCTS<span> </span></a>

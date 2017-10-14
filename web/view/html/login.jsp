@@ -142,7 +142,7 @@
 			});
 		</script>
 					<div class=" chain-grid menu-chain">
-	   		     		<a href="single.html"><img class="img-responsive chain" src="../images/wat.jpg" alt=" " /></a>
+	   		     		<a href="single.jsp"><img class="img-responsive chain" src="../images/wat.jpg" alt=" " /></a>
 	   		     		<div class="grid-chain-bottom chain-watch">
 		   		     		<span class="actual dolor-left-grid">300$</span>
 		   		     		<span class="reducedfrom">500$</span>  
@@ -154,5 +154,45 @@
 			  <div class="clearfix"> </div>
       	 </div>
 	<!---->
+	<div class="footer">
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="footer-bottom-cate">
+					<h6>关于淘券券</h6>
+					<ul>
+						<li><a href="#">关于淘券券</a></li>
+						<li><a href="#">联系淘券券</a></li>
+						<li><a href="#">新浪微博</a></li>
+					</ul>
+				</div>
+				<div class="footer-bottom-cate bottom-grid-cat">
+					<h6>商务合作</h6>
+					<ul>
+						<li><a href="#">免责声明</a></li>
+						<li><a href="#">商家合作</a></li>
+						<li><a href="#">广告合作</a></li>
+					</ul>
+				</div>
+				<div class="footer-bottom-cate">
+					<h6>用户帮助</h6>
+					<ul>
+						<li><a href="#">淘宝活动</a></li>
+						<li><a href="#">常见问题</a></li>
+						<li><a href="#">抢购技巧</a></li>
+					</ul>
+				</div>
+				<div class="footer-bottom-cate">
+					<h6>会员中心</h6>
+					<ul>
+						<li><a href="#">我的收藏</a></li>
+						<li><a href="#">免费注册</a></li>
+						<li><a href="#">登陆本站</a></li>
+						<li><a href="#">找回密码</a></li>
+					</ul>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
