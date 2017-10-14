@@ -3,7 +3,7 @@
  */
 $(document).ready(function() {
     $('#login-click').click(function () {
-        var email = $("#email-address").val();
+        var email = $("#email-phone").val();
         var password = $("#password").val();
         $.ajax({
             type: "POST",

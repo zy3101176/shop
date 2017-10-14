@@ -53,7 +53,7 @@
 				<form>
 				  <div>
 					<span>用户名<label>*</label></span>
-					<input id="email-address" type="text" placeholder="电子邮箱或手机号码">
+					<input id="email-phone" type="text" placeholder="电子邮箱或手机号码">
 				  </div>
 				  <div>
 					<span>密码<label>*</label></span>
