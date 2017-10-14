@@ -160,7 +160,7 @@
         </div>
         <div class="products">
             <h5 class="latest-product">LATEST PRODUCTS</h5>
-            <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
+            <a class="view-all" href="view/html/product.jsp">VIEW ALL<span> </span></a>
         </div>
         <div class="product-left">
             <div class="col-md-4 chain-grid">
@@ -248,7 +248,7 @@
         </div>
         <div class="products">
             <h5 class="latest-product">LATEST PRODUCTS</h5>
-            <a class="view-all" href="./view/html/product.html">VIEW ALL<span> </span></a>
+            <a class="view-all" href="view/html/product.jsp">VIEW ALL<span> </span></a>
         </div>
         <div class="product-left">
             <div class="col-md-4 chain-grid">
@@ -351,49 +351,49 @@
                 <li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="../images/arrow1.png" alt=""/>
                 </a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
                     </ul>
                 </li>
                 <li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="../images/arrow1.png"
                                                                    alt=""/></a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
                     </ul>
                 </li>
                 <li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png"
                                                                  alt=""/> </a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails</a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails</a></li>
                     </ul>
                 </li>
                 <li class="item4"><a href="#">Cras iacaus rhone <img class="arrow-img img-left-arrow"
                                                                      src="../images/arrow1.png" alt=""/></a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="./view/html/product.html">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="./view/html/product.html">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="./view/html/product.html">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
                     </ul>
                 </li>
                 <li>
                     <ul class="kid-menu">
-                        <li><a href="./view/html/product.html">Tempus pretium</a></li>
-                        <li><a href="./view/html/product.html">Dignissim neque</a></li>
-                        <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
+                        <li><a href="view/html/product.jsp">Tempus pretium</a></li>
+                        <li><a href="view/html/product.jsp">Dignissim neque</a></li>
+                        <li><a href="view/html/product.jsp">Ornared id aliquet</a></li>
                     </ul>
                 </li>
                 <ul class="kid-menu ">
-                    <li><a href="./view/html/product.html">Commodo sit</a></li>
-                    <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
-                    <li><a href="./view/html/product.html">Ornared id aliquet</a></li>
-                    <li><a href="./view/html/product.html">Urna ac tortor sc</a></li>
-                    <li><a href="./view/html/product.html">Eget nisi laoreet</a></li>
-                    <li><a href="./view/html/product.html">Faciisis ornare</a></li>
+                    <li><a href="view/html/product.jsp">Commodo sit</a></li>
+                    <li><a href="view/html/product.jsp">Urna ac tortor sc</a></li>
+                    <li><a href="view/html/product.jsp">Ornared id aliquet</a></li>
+                    <li><a href="view/html/product.jsp">Urna ac tortor sc</a></li>
+                    <li><a href="view/html/product.jsp">Eget nisi laoreet</a></li>
+                    <li><a href="view/html/product.jsp">Faciisis ornare</a></li>
                     <li class="menu-kid-left"><a href="./view/html/contact.html">Contact us</a></li>
                 </ul>
             </ul>
@@ -427,99 +427,49 @@
                 <h6><a href="./view/html/single.html">Lorem ipsum dolor</a></h6>
             </div>
         </div>
-        <a class="view-all all-product" href="./view/html/product.html">VIEW ALL PRODUCTS<span> </span></a>
+        <a class="view-all all-product" href="view/html/product.jsp">VIEW ALL PRODUCTS<span> </span></a>
     </div>
     <div class="clearfix"></div>
 </div>
 
 <!---->
+
 <div class="footer">
-    <div class="footer-top">
-        <div class="container">
-            <div class="latter">
-                <h6>NEWS-LETTER</h6>
-                <div class="sub-left-right">
-                    <form>
-                        <input type="text" value="Enter email here" onfocus="this.value = '';"
-                               onblur="if (this.value == '') {this.value = 'Enter email here';}"/>
-                        <input type="submit" value="SUBSCRIBE"/>
-                    </form>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-            <div class="latter-right">
-                <p>FOLLOW US</p>
-                <ul class="face-in-to">
-                    <li><a href="#"><span> </span></a></li>
-                    <li><a href="#"><span class="facebook-in"> </span></a></li>
-                    <div class="clearfix"></div>
-                </ul>
-                <div class="clearfix"></div>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
     <div class="footer-bottom">
         <div class="container">
             <div class="footer-bottom-cate">
-                <h6>CATEGORIES</h6>
+                <h6>关于淘券券</h6>
                 <ul>
-                    <li><a href="#">Curabitur sapien</a></li>
-                    <li><a href="#">Dignissim purus</a></li>
-                    <li><a href="#">Tempus pretium</a></li>
-                    <li><a href="#">Dignissim neque</a></li>
-                    <li><a href="#">Ornared id aliquet</a></li>
-                    <li><a href="#">Ultrices id du</a></li>
-                    <li><a href="#">Commodo sit</a></li>
-                    <li><a href="#">Urna ac tortor sc</a></li>
-                    <li><a href="#">Ornared id aliquet</a></li>
-                    <li><a href="#">Urna ac tortor sc</a></li>
-                    <li><a href="#">Eget nisi laoreet</a></li>
-                    <li><a href="#">Faciisis ornare</a></li>
+                    <li><a href="#">关于淘券券</a></li>
+                    <li><a href="#">联系淘券券</a></li>
+                    <li><a href="#">新浪微博</a></li>
                 </ul>
             </div>
             <div class="footer-bottom-cate bottom-grid-cat">
-                <h6>FEATURE PROJECTS</h6>
+                <h6>商务合作</h6>
                 <ul>
-                    <li><a href="#">Curabitur sapien</a></li>
-                    <li><a href="#">Dignissim purus</a></li>
-                    <li><a href="#">Tempus pretium</a></li>
-                    <li><a href="#">Dignissim neque</a></li>
-                    <li><a href="#">Ornared id aliquet</a></li>
-                    <li><a href="#">Ultrices id du</a></li>
-                    <li><a href="#">Commodo sit</a></li>
+                    <li><a href="#">免责声明</a></li>
+                    <li><a href="#">商家合作</a></li>
+                    <li><a href="#">广告合作</a></li>
                 </ul>
             </div>
             <div class="footer-bottom-cate">
-                <h6>TOP BRANDS</h6>
+                <h6>用户帮助</h6>
                 <ul>
-                    <li><a href="#">Curabitur sapien</a></li>
-                    <li><a href="#">Dignissim purus</a></li>
-                    <li><a href="#">Tempus pretium</a></li>
-                    <li><a href="#">Dignissim neque</a></li>
-                    <li><a href="#">Ornared id aliquet</a></li>
-                    <li><a href="#">Ultrices id du</a></li>
-                    <li><a href="#">Commodo sit</a></li>
-                    <li><a href="#">Urna ac tortor sc</a></li>
-                    <li><a href="#">Ornared id aliquet</a></li>
-                    <li><a href="#">Urna ac tortor sc</a></li>
-                    <li><a href="#">Eget nisi laoreet</a></li>
-                    <li><a href="#">Faciisis ornare</a></li>
+                    <li><a href="#">淘宝活动</a></li>
+                    <li><a href="#">常见问题</a></li>
+                    <li><a href="#">抢购技巧</a></li>
                 </ul>
             </div>
-            <div class="footer-bottom-cate cate-bottom">
-                <h6>OUR ADDERSS</h6>
-                <ul>
-                    <li>Aliquam metus dui.</li>
-                    <li>orci, ornareidquet</li>
-                    <li> ut,DUI.</li>
-                    <li>nisi, dignissim</li>
-                    <li>gravida at.</li>
-                    <li class="phone">PH : 6985792466</li>
-                    <li class="temp"><p class="footer-class">Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a>
-                    </p></li>
-                </ul>
-            </div>
+          <div class="footer-bottom-cate">
+            <h6>会员中心</h6>
+            <ul>
+              <li><a href="#">我的收藏</a></li>
+              <li><a href="#">免费注册</a></li>
+              <li><a href="#">登陆本站</a></li>
+              <li><a href="#">找回密码</a></li>
+            </ul>
+          </div>
             <div class="clearfix"></div>
         </div>
     </div>
