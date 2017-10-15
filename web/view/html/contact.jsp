@@ -4,20 +4,20 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
-<!DOCTYPE html>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
 <title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Contact :: w3layouts</title>
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!--theme-style-->
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--fonts-->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 <!--//fonts-->
-<script src="js/jquery.min.js"></script>
+<script src="../js/jquery.min.js"></script>
 
 
 <!--script-->
@@ -120,28 +120,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class=" top-nav rsidebar span_1_of_left">
 					<h3 class="cate">CATEGORIES</h3>
 		 <ul class="menu">
-		<li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="images/arrow1.png" alt=""/> </a>
+		<li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="../images/arrow1.png" alt=""/> </a>
 			<ul class="cute">
 				<li class="subitem1"><a href="product.jsp">Cute Kittens </a></li>
 				<li class="subitem2"><a href="product.jsp">Strange Stuff </a></li>
 				<li class="subitem3"><a href="product.jsp">Automatic Fails </a></li>
 			</ul>
 		</li>
-		<li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="images/arrow1.png" alt=""/></a>
+		<li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="../images/arrow1.png" alt=""/></a>
 			<ul class="cute">
 				<li class="subitem1"><a href="product.jsp">Cute Kittens </a></li>
 				<li class="subitem2"><a href="product.jsp">Strange Stuff </a></li>
 				<li class="subitem3"><a href="product.jsp">Automatic Fails </a></li>
 			</ul>
 		</li>
-		<li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="images/arrow1.png" alt=""/> </a>
+		<li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png" alt=""/> </a>
 			<ul class="cute">
 				<li class="subitem1"><a href="product.jsp">Cute Kittens </a></li>
 				<li class="subitem2"><a href="product.jsp">Strange Stuff </a></li>
 				<li class="subitem3"><a href="product.jsp">Automatic Fails</a></li>
 			</ul>
 		</li>
-		<li class="item4"><a href="#">Cras iacaus rhone <img class="arrow-img img-left-arrow" src="images/arrow1.png" alt=""/></a>
+		<li class="item4"><a href="#">Cras iacaus rhone <img class="arrow-img img-left-arrow" src="../images/arrow1.png" alt=""/></a>
 			<ul class="cute">
 				<li class="subitem1"><a href="product.jsp">Cute Kittens </a></li>
 				<li class="subitem2"><a href="product.jsp">Strange Stuff </a></li>
@@ -162,7 +162,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li><a href="product.jsp">Urna ac tortor sc</a></li>
 				<li ><a href="product.jsp">Eget nisi laoreet</a></li>
 				<li><a href="product.jsp">Faciisis ornare</a></li>
-				<li class="menu-kid-left"><a href="contact.html">Contact us</a></li>
+				<li class="menu-kid-left"><a href="contact.jsp">Contact us</a></li>
 			</ul>
 		
 	</ul>
@@ -188,7 +188,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			});
 		</script>
 					<div class=" chain-grid menu-chain">
-	   		     		<a href="single.jsp"><img class="img-responsive chain" src="images/wat.jpg" alt=" " /></a>
+	   		     		<a href="single.jsp"><img class="img-responsive chain" src="../images/wat.jpg" alt=" " /></a>
 	   		     		<div class="grid-chain-bottom chain-watch">
 		   		     		<span class="actual dolor-left-grid">300$</span>
 		   		     		<span class="reducedfrom">500$</span>  

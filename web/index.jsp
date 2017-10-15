@@ -346,22 +346,23 @@
     </div>
     <div class="sub-cate">
         <div class=" top-nav rsidebar span_1_of_left">
-            <h3 class="cate">CATEGORIES</h3>
+            <h3 class="cate">商品分类</h3>
             <ul class="menu">
-                <li class="item1"><a href="#">Curabitur sapien<img class="arrow-img" src="../images/arrow1.png" alt=""/>
+                <li class="item1"><a href="#">女装／内衣<img class="arrow-img" src="../images/arrow1.png" alt=""/>
                 </a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">舒适内衣</a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">精选上装</a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">女士下装</a></li>
+                        <li class="subitem4"><a href="view/html/product.jsp">浪漫裙装</a></li>
                     </ul>
                 </li>
-                <li class="item2"><a href="#">Dignissim purus <img class="arrow-img " src="../images/arrow1.png"
+                <li class="item2"><a href="#">帅气男装<img class="arrow-img " src="../images/arrow1.png"
                                                                    alt=""/></a>
                     <ul class="cute">
-                        <li class="subitem1"><a href="view/html/product.jsp">Cute Kittens </a></li>
-                        <li class="subitem2"><a href="view/html/product.jsp">Strange Stuff </a></li>
-                        <li class="subitem3"><a href="view/html/product.jsp">Automatic Fails </a></li>
+                        <li class="subitem1"><a href="view/html/product.jsp">男士外套 </a></li>
+                        <li class="subitem2"><a href="view/html/product.jsp">男士裤装 </a></li>
+                        <li class="subitem3"><a href="view/html/product.jsp">男士内衣 </a></li>
                     </ul>
                 </li>
                 <li class="item3"><a href="#">Ultrices id du<img class="arrow-img img-arrow" src="../images/arrow1.png"
@@ -381,20 +382,20 @@
                     </ul>
                 </li>
                 <li>
-                    <ul class="kid-menu">
+                    <ul class="cute">
                         <li><a href="view/html/product.jsp">Tempus pretium</a></li>
                         <li><a href="view/html/product.jsp">Dignissim neque</a></li>
                         <li><a href="view/html/product.jsp">Ornared id aliquet</a></li>
                     </ul>
                 </li>
-                <ul class="kid-menu ">
+                <ul class="cute">
                     <li><a href="view/html/product.jsp">Commodo sit</a></li>
                     <li><a href="view/html/product.jsp">Urna ac tortor sc</a></li>
                     <li><a href="view/html/product.jsp">Ornared id aliquet</a></li>
                     <li><a href="view/html/product.jsp">Urna ac tortor sc</a></li>
                     <li><a href="view/html/product.jsp">Eget nisi laoreet</a></li>
                     <li><a href="view/html/product.jsp">Faciisis ornare</a></li>
-                    <li class="menu-kid-left"><a href="./view/html/contact.html">Contact us</a></li>
+                    <li class="menu-kid-left"><a href="view/html/contact.jsp">Contact us</a></li>
                 </ul>
             </ul>
         </div>

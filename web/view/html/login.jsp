@@ -116,7 +116,7 @@
 				<li><a href="product.jsp">Urna ac tortor sc</a></li>
 				<li ><a href="product.jsp">Eget nisi laoreet</a></li>
 				<li><a href="product.jsp">Faciisis ornare</a></li>
-				<li class="menu-kid-left"><a href="contact.html">Contact us</a></li>
+				<li class="menu-kid-left"><a href="contact.jsp">Contact us</a></li>
 			</ul>
 		
 	</ul>

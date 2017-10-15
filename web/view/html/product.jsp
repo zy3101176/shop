@@ -39,15 +39,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="clearfix"> </div>
 				</div>
 				<div class="header-bottom-right">					
-						<div class="account"><a href="login.jsp"><span> </span>YOUR ACCOUNT</a></div>
+						<div class="account"><a href="login.jsp"><span> </span>个人管理</a></div>
 							<ul class="login">
-								<li><a href="login.jsp"><span> </span>LOGIN</a></li> |
-								<li ><a href="register.jsp">SIGNUP</a></li>
+								<li><a href="login.jsp"><span> </span>登陆</a></li>
+								<li ><a href="register.jsp">注册</a></li>
 							</ul>
-						<div class="cart"><a href="#"><span> </span>CART</a></div>
+						<div class="cart"><a href="#"><span> </span>收藏夹</a></div>
 					<div class="clearfix"> </div>
 				</div>
-				<div class="clearfix"> </div>	
+				<div class="clearfix"> </div>
 			</div>
 		</div>
 	</div>
@@ -56,20 +56,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 		
 	<div class="women-product">
-		<div class=" w_content">
-			<div class="women">
-				<a href="#"><h4>Enthecwear - <span>4449 itemms</span> </h4></a>
-				<ul class="w_nav">
-					<li>Sort : </li>
-			     	<li><a class="active" href="#">popular</a></li> |
-			     	<li><a href="#">new </a></li> |
-			     	<li><a href="#">discount</a></li> |
-			     	<li><a href="#">price: Low High </a></li> 
-			     <div class="clearfix"> </div>	
-			     </ul>
-			     <div class="clearfix"> </div>	
-			</div>
-		</div>
+
 		<!-- grids_of_4 -->
 		<div class="grid-product">
 		  <div class="  product-grid">
@@ -247,7 +234,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li><a href="product.jsp">Urna ac tortor sc</a></li>
 				<li ><a href="product.jsp">Eget nisi laoreet</a></li>
 				<li><a href="product.jsp">Faciisis ornare</a></li>
-				<li class="menu-kid-left"><a href="contact.html">Contact us</a></li>
+				<li class="menu-kid-left"><a href="contact.jsp">Contact us</a></li>
 			</ul>
 		
 	</ul>

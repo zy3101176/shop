@@ -38,12 +38,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="clearfix"> </div>
 				</div>
 				<div class="header-bottom-right">					
-						<div class="account"><a href="login.jsp"><span> </span>YOUR ACCOUNT</a></div>
+						<div class="account"><a href="login.jsp"><span> </span>个人管理</a></div>
 							<ul class="login">
-								<li><a href="login.jsp"><span> </span>LOGIN</a></li> |
-								<li ><a href="register.jsp">SIGNUP</a></li>
+								<li><a href="login.jsp"><span> </span>登陆</a></li> |
+								<li ><a href="register.jsp">注册</a></li>
 							</ul>
-						<div class="cart"><a href="#"><span> </span>CART</a></div>
+						<div class="cart"><a href="#"><span> </span>收藏夹</a></div>
 					<div class="clearfix"> </div>
 				</div>
 				<div class="clearfix"> </div>	
@@ -56,28 +56,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="register">
 		  	  <form> 
 				 <div class="  register-top-grid">
-					<h3>PERSONAL INFORMATION</h3>
+					<h3>个人信息</h3>
 					<div class="mation">
-						<span>First Name<label>*</label></span>
+						<span>邮件<label>*</label></span>
 						<input type="text"> 
 					
-						<span>Last Name<label>*</label></span>
-						<input type="text"> 
-					 
-						 <span>Email Address<label>*</label></span>
-						 <input type="text"> 
+						<span>手机<label>*</label></span>
+						<input type="text">
+
+						<span>QQ</span>
+						<input type="text">
+
 					</div>
 					 <div class="clearfix"> </div>
-					   <a class="news-letter" href="#">
-						 <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i> </i>Sign Up</label>
-					   </a>
+					   <a class="news-letter" href="#"> </a>
 					 </div>
 				     <div class="  register-bottom-grid">
-						    <h3>LOGIN INFORMATION</h3>
+						    <h3>登陆信息</h3>
 							<div class="mation">
-								<span>Password<label>*</label></span>
+								<span>密码<label>*</label></span>
 								<input type="text">
-								<span>Confirm Password<label>*</label></span>
+								<span>重复输入密码<label>*</label></span>
 								<input type="text">
 							</div>
 					 </div>
@@ -85,7 +84,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="clearfix"> </div>
 				<div class="register-but">
 				   <form>
-					   <input type="submit" value="submit">
+					   <input type="submit" value="提交">
 					   <div class="clearfix"> </div>
 				   </form>
 				</div>
@@ -136,7 +135,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li><a href="product.jsp">Urna ac tortor sc</a></li>
 				<li ><a href="product.jsp">Eget nisi laoreet</a></li>
 				<li><a href="product.jsp">Faciisis ornare</a></li>
-				<li class="menu-kid-left"><a href="contact.html">Contact us</a></li>
+				<li class="menu-kid-left"><a href="contact.jsp">Contact us</a></li>
 			</ul>
 		
 	</ul>

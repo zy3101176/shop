@@ -5,7 +5,6 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
-	background: #fff;
 	font-family: 'Open Sans', sans-serif;
 }
 body a{
@@ -161,10 +160,11 @@ ul.login li a span{
 }
 /*----*/
 h3.cate {
-	color: #fff;
+	font-weight: 200;
+	color: #ffffff;
 	font-size: 1.7em;
 	padding: 0.6em ;
-	background: #000;
+	background: #e91e63;
 	margin: 0;
 }
 /*----*/
@@ -189,11 +189,12 @@ ul {
 	text-indent: 1.2em;
 	display: block;
 	position: relative;
-	color: #000;
+	color: #ffffff;
 	font-size: 1.1em;
 	text-decoration:none;
 	border-bottom: 1px solid #ddd;
-	font-weight:700;
+	font-weight:200;
+	background: #989CA2;
 }
 .menu ul li a {	
 	width: 100%;
@@ -201,12 +202,13 @@ ul {
 	position: relative;
 	font-size:1.1em;
 	font-weight: 400;
-	color: #000;
+	color: #ffffff;
 	text-decoration:none;
 	border-bottom: 1px solid #ddd;
-	font-weight:700;
+	font-weight:200;
 	line-height: 3.5em;
 	text-indent: 1.2em;
+	background: #989ca1;
 }
 .menu ul li a:hover{
 	background: #1DBAA5;
